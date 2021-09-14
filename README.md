@@ -9,6 +9,6 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 - What is its value?
 
 # Files
-**2019_Winter_Data_Science_Intern_Challenge_Data_Set.csv**: Data provided by Shopify to provide analysis on
-**data_analysis.ipynb**: Notebook containing exploratory data analysis that answers above question
-**shopify_per_store_aov**: CSV that I created that shows the AOV per store. This was one potential solution I gave to the above question
+- **2019_Winter_Data_Science_Intern_Challenge_Data_Set.csv**: Data provided by Shopify to provide analysis on
+- **data_analysis.ipynb**: Notebook containing exploratory data analysis that answers above question
+- **shopify_per_store_aov**: CSV that I created that shows the AOV per store. This was one potential solution I gave to the above question
